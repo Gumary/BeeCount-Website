@@ -41,3 +41,9 @@ sidebar_position: 1
 - 输入转账金额
 
 系统会自动更新两个账户的余额。
+
+## 进阶操作
+
+首页长摁“+”号可以快速进行三种便捷记账：拍照记账、图片识别记账、语音记账，详细操作流程见AI助手(./chat)。
+
+<img width="607" height="404" alt="image" src="https://github.com/user-attachments/assets/89a29b31-73c5-4d6e-ac11-b7f572084f88" />
